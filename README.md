@@ -1,4 +1,3 @@
-# migration-flow-analysis
 # Migration Data Analysis
 
 Data analysis project focused on migration flows and Argentine representation offices around the world using SQL and Python.
